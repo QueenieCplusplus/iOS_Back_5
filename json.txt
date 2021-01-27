@@ -1,0 +1,26 @@
+[
+
+    {
+       "name": "Patty",
+       "height": 171,
+       "weight":
+               {
+        
+                "min":52,
+                "man":54
+               
+               }
+    },
+    {
+       "name": "Kate",
+       "height": 172,
+       "weight":
+               {
+        
+                "min": 46,
+                "max": 52
+               
+               }
+    }
+
+]
